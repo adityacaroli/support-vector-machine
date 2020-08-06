@@ -1,6 +1,6 @@
 # support-vector-machine
 
-some of the topics/terms covered in this knn model: 
+some of the topics/terms covered in this svm model: 
 => countplot
 => pd.set_option()
 => correlation
